@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redu_x-blog-app/static/css/main.20694a7d.css",
+    "main.js": "/redu_x-blog-app/static/js/main.837f5ce5.js",
+    "index.html": "/redu_x-blog-app/index.html",
+    "main.20694a7d.css.map": "/redu_x-blog-app/static/css/main.20694a7d.css.map",
+    "main.837f5ce5.js.map": "/redu_x-blog-app/static/js/main.837f5ce5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20694a7d.css",
+    "static/js/main.837f5ce5.js"
+  ]
+}
